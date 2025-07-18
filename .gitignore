@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+
+# OS files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Logs and system files
+*.log
+
+# Environment variables or API keys (if any)
+.env
