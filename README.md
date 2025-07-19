@@ -29,4 +29,4 @@ A web dashboard built using **Plotly Dash** that allows users to interactively v
 
 3.**Run the app**
    ```
-  python app.py
+   python app.py
