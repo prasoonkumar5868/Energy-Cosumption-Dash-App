@@ -23,7 +23,4 @@ A web dashboard built using **Plotly Dash** that allows users to interactively v
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
-2.**install the requirements
-    pip install -r requirements.txt
-3. ** Run the App**
-    python app.py
+
