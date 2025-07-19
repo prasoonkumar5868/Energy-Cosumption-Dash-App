@@ -17,10 +17,16 @@ A web dashboard built using **Plotly Dash** that allows users to interactively v
 - [Plotly](https://plotly.com/python/) for interactive charts
 - [Python](https://www.python.org/) as backend logic
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the Repository**
-   ```bash
+   ```
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
+2. **Install Requirements**
+   ```
+   pip install -r requirements.txt
 
+3.**Run the app**
+   ```
+  python app.py
