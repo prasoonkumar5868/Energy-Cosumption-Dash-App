@@ -17,16 +17,6 @@ A web dashboard built using **Plotly Dash** that allows users to interactively v
 - [Plotly](https://plotly.com/python/) for interactive charts
 - [Python](https://www.python.org/) as backend logic
 
-## How to Run
-
-1. **Clone the Repository**
-   ```
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-2. **Install Requirements**
-   ```
-   pip install -r requirements.txt
-
-3.**Run the app**
-   ```
-   python app.py
+## Deployement
+- The project is deployed using the Render web service
+- Please visit the following link to view the dashboard (https://energy-cosumption-dash-app.onrender.com/)
